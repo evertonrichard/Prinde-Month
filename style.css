@@ -1,8 +1,9 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sigmar&display=swap');
 
+
 body {
-    background-image: url(../pridemonth.jpg);
+    background-image: url('pridemonth.jpg');
     background-size: cover;
     width: -800px;
     height: -900px;
