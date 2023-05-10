@@ -86,4 +86,15 @@ aside {
     font-size: 50px;
 }
  
+@media only screen and (max-width: 600px) {
+    /* Estilos para dispositivos móveis com tela de até 600px de largura */
+  }
+  
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Estilos para tablets com tela entre 601px e 1024px de largura */
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    /* Estilos para desktops com tela de 1025px ou mais de largura */
+  }
 
